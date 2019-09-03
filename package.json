@@ -9,11 +9,13 @@
     "vue": "^2.6.10"
   },
   "devDependencies": {
-	"@babel/core": "^7.5.5",
-	"@babel/preset-env": "^7.5.5",
-    "babel-loader": "^8.0.0-beta.0",
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.5.0",
+    "@babel/plugin-transform-strict-mode": "^7.2.0",
+    "@babel/preset-env": "^7.5.5",
     "autod": "^3.0.1",
     "autod-egg": "^1.1.0",
+    "babel-loader": "^8.0.0-beta.0",
     "easywebpack-cli": "^4.3.4",
     "easywebpack-html": "^4.0.0",
     "egg-bin": "^4.11.0",
