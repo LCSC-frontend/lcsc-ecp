@@ -1,16 +1,21 @@
 {
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
+    "echarts": "^4.7.0",
     "egg": "^2.15.1",
     "egg-alinode": "^2.0.1",
+    "egg-cors": "^2.2.2",
     "egg-scripts": "^2.11.0",
     "egg-view-nunjucks": "^2.2.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.1",
+    "nunjucks": "3.0.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-classes": "^7.5.5",
     "@babel/plugin-transform-modules-commonjs": "^7.5.0",
+    "@babel/plugin-transform-proto-to-assign": "^7.5.5",
     "@babel/plugin-transform-strict-mode": "^7.2.0",
     "@babel/preset-env": "^7.5.5",
     "autod": "^3.0.1",
