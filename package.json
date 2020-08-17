@@ -2,7 +2,6 @@
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
     "echarts": "^4.7.0",
-    "bootstrap": "^4.5.2",
     "egg": "^2.15.1",
     "egg-alinode": "^2.0.1",
     "egg-cors": "^2.2.2",
